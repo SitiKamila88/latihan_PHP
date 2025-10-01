@@ -5,7 +5,7 @@ $data = [
     "Kunimi" => 75,
     "Hinata" => 55,
     "Rehan" => 45,
-    "Dazai"  => 30
+    "Dazai "  => 30
 ];
 
 echo "<h2>Contoh IF ELSE</h2>";
